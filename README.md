@@ -13,7 +13,7 @@
 #### 🔥 Looking for opportunities to challenge and grow as a developer and make an impact with innovative solutions.
 
 ## 💬 Let's Connect!
-I'm always looking for new and exciting projects to work on. If you have an app idea or just want to chat, feel free to reach out to me!
+### I'm always looking for new and exciting projects to work on. If you have an app idea or just want to chat, feel free to reach out to me!
 
 ### 📧 E-mail:   nadiradze19@gmail.com
 ### 💻 LinkedIn: https://www.linkedin.com/in/giorgi-nadiradze-58186b19b/
