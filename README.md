@@ -1,7 +1,7 @@
 # 🚀 Giorgi - Senior Flutter Developer 💻
 
 
-### 💻 Experienced software developer with 4+ years of commercial experience in delivering high-quality software solutions for various platforms including Android, iOS, Web, Linux, macOS, and Windows.
+#### 💻 Experienced software developer with 4+ years of commercial experience in delivering high-quality software solutions for various platforms including Android, iOS, Web, Linux, macOS, and Windows.
 
 
 #### 📚 Holds a degree in Computer Science and continuously expands their knowledge through self-education and practical experience.
