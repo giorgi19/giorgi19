@@ -1,16 +1,19 @@
-### Hi there 👋
+🚀 Giorgi - Senior Flutter Developer 💻
 
-<!--
-**giorgi19/giorgi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Experienced software developer with 4+ years of commercial experience in delivering high-quality software solutions for various platforms including Android, iOS, Web, Linux, macOS, and Windows.
 
-Here are some ideas to get you started:
+📚 Holds a degree in Computer Science and continuously expands their knowledge through self-education and practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in Dart, Flutter, TypeScript, and JavaScript and always eager to learn new technologies.
+
+💻 Passionate about web3 dApps, Blockchain, and Clean Architecture.
+
+🔥 Looking for opportunities to challenge and grow as a developer and make an impact with innovative solutions.
+
+💬 Let's Connect!
+I'm always looking for new and exciting projects to work on. If you have an app idea or just want to chat, feel free to reach out to me!
+
+📧 nadiradze19@gmail.com
+💻 LinkedIn
+
+⚡️ Together, let's build something amazing! ⚡️
