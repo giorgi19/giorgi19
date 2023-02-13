@@ -6,9 +6,9 @@
 
 #### 📚 Holds a degree in Computer Science and continuously expands their knowledge through self-education and practical experience.
 
-#### 🔥 Skilled in Dart, Flutter, TypeScript, and JavaScript and always eager to learn new technologies.
+#### 🔥 Skilled in Dart, Flutter, React, TypeScript, and JavaScript and always eager to learn new technologies.
 
-#### 💻 Passionate about web3 dApps, Blockchain, and Clean Architecture.
+#### 💻 Passionate about Blockchain, Web3, DApps.
 
 #### 🔥 Looking for opportunities to challenge and grow as a developer and make an impact with innovative solutions.
 
